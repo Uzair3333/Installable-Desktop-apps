@@ -1,0 +1,4 @@
+username,password,role,name
+admin,admin123,admin,Administrator
+librarian,lib123,librarian,Librarian User
+member,mem123,member,Member User

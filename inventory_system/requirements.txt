@@ -1,0 +1,14 @@
+# Smart Inventory & Billing System - Requirements
+
+# GUI Framework
+# tkinter comes built-in with Python, no need to install
+
+# Database
+# sqlite3 comes built-in with Python, no need to install
+
+# Data Processing & Export
+pandas==2.1.4
+openpyxl==3.1.2
+
+# PyInstaller for creating executable
+pyinstaller==6.3.0
